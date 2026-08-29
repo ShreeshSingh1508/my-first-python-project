@@ -1,4 +1,4 @@
-# my-first-python-project
+# Calculator in Python
 My first python project as a CSE (AI & ML) student.
 A simple calculator program built using Python.
 
